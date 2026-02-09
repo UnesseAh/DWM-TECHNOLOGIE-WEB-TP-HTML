@@ -25,30 +25,3 @@ Le projet contient les fichiers suivants :
     * `logo.jpg` : Le logo du site.
     * `baniere.jpg` : La bannière supérieure.
 
-## 🚀 Installation et Utilisation
-
-Pour visualiser le site sur votre ordinateur :
-
-1.  Clonez ce dépôt ou téléchargez les fichiers.
-    ```bash
-    git clone <votre-url-de-repo>
-    ```
-2.  Assurez-vous que le dossier `images` contient bien les fichiers `logo.jpg` et `baniere.jpg`.
-3.  Ouvrez le fichier **`index.html`** avec n'importe quel navigateur web (Chrome, Firefox, Edge, etc.).
-4.  Naviguez entre les pages en utilisant le menu de gauche.
-
-## 🛠 Technologies Utilisées
-
-* **HTML5** (Structure de la page)
-* **Tableaux HTML** (Mise en page)
-
-## 📝 Historique des versions
-
-* **Step 1** : Création du gabarit (`gabari.html`) avec la structure en tableau.
-* **Step 2** : Création de la page d'accueil (`index.html`).
-* **Step 3** : Ajout de la page Petit Déjeuner.
-* **Step 4** : Ajout de la page Déjeuner.
-* **Step 5** : Ajout de la page Dîner.
-
----
-*Ce projet a été réalisé dans le cadre d'un exercice de formation HTML.*
